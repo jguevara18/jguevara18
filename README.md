@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Estoy aprendiendo actualmente Typescript.<br>Egresado de LARNU Bootcamp como Desarrollador web Fullstack con habilidades del HTML, CSS, GIT, GITHUB, JAVASCRIPT, REACT, NODE, EXPRESS, POSTGRESQL, MYSQL, DOCKER, CI/CD, PITHON y MICROSOFT POQUER BI.
 
 
