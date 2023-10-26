@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador web frontend junior con capacidades en HTML, CSS, JavaScript, React, MySQL, Postgresql,  Git, Docker y PHP. Además, poseo habilidades blandas en gestión de tiempo, comunicación, inteligencia emocional y servicio al cliente.<br>Trabajando constantemente para mejorar mis habilidades en el desarrollo web y aprendiendo nuevas tecnologías para poder ofrecer soluciones innovadoras y de alta calidad a mis futuros empleadores. Me apasiona el desarrollo web y estoy comprometido a seguir aprendiendo y creciendo en este campo.
+Desarrollador web frontend junior con capacidades en HTML, CSS, JavaScript, React, Apex, MySQL, Postgresql,  Git, Docker y PHP. Además, poseo habilidades blandas en gestión de tiempo, comunicación, inteligencia emocional y servicio al cliente.<br>Trabajando constantemente para mejorar mis habilidades en el desarrollo web y aprendiendo nuevas tecnologías para poder ofrecer soluciones innovadoras y de alta calidad a mis futuros empleadores. Me apasiona el desarrollo web y estoy comprometido a seguir aprendiendo y creciendo en este campo.
 
 
 ## 🌐 Socials:
